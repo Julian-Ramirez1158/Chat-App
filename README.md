@@ -9,4 +9,7 @@ This project serves as a basic real-time chat application. This web app makes us
 
 ## User stories:
 - As a project manager I want to access a chat app so that I can communicate with my team on a regular basis.
+
 - As a parent I want to create a chatroom with multiple users so that I can stay in contact with all of my children. 
+
+
